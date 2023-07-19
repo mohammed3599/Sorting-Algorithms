@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.exe
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.deps.json
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.dll
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.pdb
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.dll
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\refint\SortingAlgorithms.dll
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.pdb
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\ref\SortingAlgorithms.dll
